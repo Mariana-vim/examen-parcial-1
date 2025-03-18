@@ -11,3 +11,16 @@
 9. Recuperar cambios remotos (realizados en Git Hub, que fue el archivo README) a nuestra carpeta local usando los comandos "git fetch" y "git pull"
 10. Editar dos de los cuatro archivos creados (se editaron el archivo python1.py y python2.py).
 11. Abrir archivo README para agregar las instrucciones ejecutaddas al momento, despues guardar hacer un commit y suir los cambios a github.
+12. ESTA LINEA ES NUEVA, a partir de aqui se encuentran las instrucciones nuevas para el paso 6 del examen: control y seguimiento remoto.
+13. Editar dos de los cuatro archivos de nuestra carpeta desde Git Hub.
+14. Abrir el archivo README desde git hub para agregar las instrucciones ejecutadas hasta el momento.
+15. Guardar los archivos y recuperar los cambios a la carpeta local de la computadora.
+16. Para el paso 7 del examen, crear una nueva rama con el nombre rama-1.
+17. Crear dos archivos nuevos
+18. En la rama-1, agregar los dos archivos recien creados.
+19. Confirmar los cambios y subirlos a GitHub
+20. Regresar a la rama main y fusionar rama-1 con ella
+21. Confirmar que la fusion fue realizada exitosamente
+22. Asegurarse que README tenga todas las instrucciones realizadas, guardarlo y subir todos los cambios al repositorio de github
+
+    Si se lee esta linea, significa que se subieron con exito todos los cambios al repositorio de GitHub :).
